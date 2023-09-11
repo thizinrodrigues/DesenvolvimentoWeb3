@@ -1,0 +1,15 @@
+C:\Users\Your Name\AppData\Local\Programs\Python\Python36-32\Scripts>pip install requests
+Comando usado para a instalação do requests
+site de referencia
+https://www.w3schools.com/python/module_requests.asp
+
+$ pip freeze > requirements.txt
+Comando usado para a criação do requirements.txt
+site de referencia
+https://jtemporal.com/requirements-txt/
+
+site da API utilizada
+https://docs.awesomeapi.com.br/api-de-moedas
+
+site documentação Python
+https://docs.python.org/3/
